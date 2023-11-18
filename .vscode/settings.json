@@ -1,0 +1,14 @@
+{
+    "eslint.workingDirectories": [
+        "./backend",
+        "./frontend"
+    ],
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.bracketSameLine": true,
+    "prettier.tabWidth": 4,
+    "prettier.useEditorConfig": false,
+    "prettier.useTabs": true
+}
